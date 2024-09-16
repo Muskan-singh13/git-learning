@@ -6,3 +6,5 @@ add another file to commit it
 the next line is added
 
 the next lineS
+
+the next more line
